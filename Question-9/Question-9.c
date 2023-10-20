@@ -19,8 +19,8 @@ int main(){
   num2 = num1 - num2;
   num1 = num1 - num2;
 
-  printf("\nNumber 1: %d\n", num1);
-  printf("Number 2: %d\n", num2);
+  printf("\nSwapped Number 1: %d\n", num1);
+  printf("Swapped Number 2: %d\n", num2);
 
   printf("\n\n<--- End of Code --->");
 

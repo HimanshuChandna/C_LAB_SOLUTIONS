@@ -12,7 +12,7 @@ int main(){
 
   printf("Enter number 1:\n");
   scanf("%d", &a);
-  printf("Enter Number 2:\n\n");
+  printf("Enter Number 2:\n");
   scanf("%d", &b);
 
   temp = a;
@@ -20,8 +20,8 @@ int main(){
   b = a;
   b = temp;
 
-  printf("Number 1 %d\n", a);
-  printf("Number 2 %d\n", b);
+  printf("\nSwapped Number 1: %d\n", a);
+  printf("Swapped Number 2: %d\n", b);
 
   printf("\n\n<--- End of Code --->");
 
