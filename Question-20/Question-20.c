@@ -16,7 +16,7 @@ Average marks grades
 
     printf("Name-Himanshu Chandna, Class-1B\n\n");
 
-    printf("To find maximum of three numbers by using if else statement\n\n");
+    printf("To find grades on the basis of marks, using if-else and relational operators Average marks grades\n80 - 100 Honours\n60 - 79 First Division\n50 -59 Second Division\n40 - 49 Third Division\n0 - 39 Fail\n\n");
 
     // Taking the input from the user
     printf("Enter average marks to check the grades accordingly: \n");

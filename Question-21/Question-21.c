@@ -15,7 +15,7 @@ int main(){
 
     printf("Name-Himanshu Chandna, Class-1B\n\n");
 
-    printf("To find maximum of three numbers by using if else statement\n\n");
+    printf("To find electricity charges based on consumption\nConsumption Units Rate of Charge\n0 - 200 (0.50 Rs per unit)\n201 - 400 (Rs. 100 + Rs. 0.65 per unit)\n401 - 600 (Rs. 230 + Rs. 0.80 per unit)\n601 - above (Rs. 390 + Rs. 1.00 per unit)\n\n");
 
     // Taking input from the user
     printf("Enter your electricity consumption in units to check the electricity charges\n\n");

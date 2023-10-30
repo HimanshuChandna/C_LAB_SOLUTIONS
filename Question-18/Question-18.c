@@ -6,7 +6,7 @@ int main(){
 
     printf("Name-Himanshu Chandna, Class-1B\n\n");
 
-    printf("Mathematical operation on character to get other character\n\n");
+    printf("To find maximum of two numbers by using if else statement\n\n");
 
     // Assigning the variables
     int num1, num2;

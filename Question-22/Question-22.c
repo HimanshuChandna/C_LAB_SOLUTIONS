@@ -10,10 +10,10 @@ int main(){
 
     printf("Name-Himanshu Chandna, Class-1B\n\n");
 
-    printf("To find maximum of three numbers by using if else statement\n\n");
+    printf("Write a program to read two integers and an operator (+,-,*,/,%).\nUse switch-case statement to get result of operator on two integers.\n\n");
 
     // Taking input from the user
-    printf("Choose the operation you want to perfrom:-\n+\n-\n*\n/\n%%\n\n");
+    printf("Choose the operation you want to perfrom:-\n+\n-\n*\n/\n%%\n\n:");
     scanf("%c",&operation);
 
     printf("Enter number 1: ");
@@ -22,7 +22,7 @@ int main(){
     printf("Enter number 2: ");
     scanf("%d",&num2);
 
-    // By using the switch statement we're trying to perfrom different actions on the user input integers based on the operation used entered from the list.
+    // By using the switch statement we're trying to perform different actions on the user input integers based on the operation used entered from the list.
     switch (operation)
     {
     case '+':
