@@ -1,0 +1,20 @@
+44. Write a program to perfrom Linear Search
+45. Write a program to reverse array for given array.
+46. Write a progam Matrix Operations (switch-case): Addition, Subtraction, Multiplication and Transpose
+47. Write a program to read character array using getchar() in do-while loop and print it. Find its length and number of vowels (Case-sensitive)
+48. Write a program to find reverse of a string (without inbuilt functions)
+49. Write a program to compare and concatinate two string (without inbuilt functions)
+50. Write a program to copy a string to another string (without inbuilt functions)
+51. Write a program to show the use of string function: strcpy(), strcat(), strcmp(), strlen(). 
+51. Write a program to find if a given string is palindrome or not.
+52. Write a program to define pointer variables for int, char and float. Print their values (using *) and addresses using pointer.
+53. Write a program using pointers to read array elements and find their sum.
+54. Write a program to find length of string using pointers.
+55. Write a program to declare an array of pointers, read values and print them.
+56. Write a program to enter book records using structures.
+57. Write a program to enter employee salary using structures. Create array of structures.
+58. Write a program to define a structure store and write a function update() to change the values of its members. (Pass structure to update() and return structure).
+59. Program to define a structure stores and write a function update() to change the values of its members. (Pass structure to update() and return structure.)
+60. Program to open a file, read character data from keyboard and write it into the file. Close the file and reopen it to print the contents.
+61. Program to open a file, read integer data from keyboard and write it into the file. Close the file and reopen it to print the contents.
+62. Program to demonstrate use of malloc() and free().
